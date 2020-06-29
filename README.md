@@ -1,19 +1,23 @@
-## Welcome to GitHub Pages
+## Melbourne Paving and Landscaping
 
 You can use the [editor on GitHub](https://github.com/JyeStillitano/JyeStillitano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Contact Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To consult about jobs contact;
 
+Michael Cox
+0444 444 444
+mick@gmail.com
+
+
+### Previous Jobs
 ```markdown
-Syntax highlighted code block
+**Photos**
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
