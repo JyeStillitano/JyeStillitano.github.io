@@ -1,8 +1,6 @@
 ## Melbourne Paving and Landscaping
 
-You can use the [editor on GitHub](https://github.com/JyeStillitano/JyeStillitano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque fermentum ultrices mi sit amet fringilla. Donec rhoncus libero sed ex efficitur volutpat. Proin ac ipsum ut turpis pellentesque vulputate. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum ultrices est a pharetra.
 
 ### Contact Information
 
@@ -19,23 +17,15 @@ mick@gmail.com
 
 
 
-- Bulleted
-- List
+- Lorem
+- Ipsum
 
-1. Numbered
-2. List
+1. Lorem
+2. Ipsum
 
-**Bold** and _Italic_ and `Code` text
+**Lorem** and _Ipsum_ and `dolor` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JyeStillitano/JyeStillitano.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
